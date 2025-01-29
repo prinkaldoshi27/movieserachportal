@@ -41,4 +41,4 @@ Search Page: <br>
 ![image](https://github.com/user-attachments/assets/cc50a4e6-65c6-4fc3-b80b-f5d971e3adfe)<br>
 
 Movie Details Page: <br>
-![image](https://github.com/user-attachments/assets/706e14e5-9462-460e-b83d-5056c5409d36) provide this with proper <BR> tags!
+![image](https://github.com/user-attachments/assets/706e14e5-9462-460e-b83d-5056c5409d36)
